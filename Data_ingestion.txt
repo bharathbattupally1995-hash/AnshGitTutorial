@@ -1,2 +1,11 @@
+
 Hey , I ma not  ingesting data in this file(bug is fixed).
 I ma the master file yaar
+
+Hey , I ma ingesting data in this file.
+I ma the master file yaar
+
+
+hehe I ma learning git.
+hey I am fixing the bugs
+
